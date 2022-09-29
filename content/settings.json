@@ -1,7 +1,7 @@
 {
   "domain": "licoritz.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#e6007e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
@@ -14,10 +14,10 @@
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "_",
-  "favicon": "/img/uploads/id-visual-licoritz-corte.jpg",
+  "favicon": "/img/uploads/licoritz-avatar.jpg",
   "icons_font": "_",
   "country_code": "BR",
-  "secondary_color": "#393e46",
+  "secondary_color": "#000000",
   "icon": "/img/uploads/id-visual-licoritz-corte.jpg",
   "store_id": 16011,
   "description": "O EQUILÍBRIO PERFEITO ENTRE O DOCE, O ÁLCOOL E A CREMOSIDADE.",
