@@ -1,6 +1,5 @@
 {
   "domain": "licoritz.com.br",
-  "repository": "ecomplus-stores/licoritz",
   "currency_symbol": "R$",
   "primary_color": "#e6007e",
   "theme": {
@@ -8,8 +7,9 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/licoritz",
   "logo": "/img/uploads/id-visual-licoritz-corte.jpg",
-  "name": "LICOR LICORITZ!",
+  "name": "LICORITZ!",
   "short_name": "LICORITZ!",
   "lang": "pt_br",
   "currency": "BRL",
