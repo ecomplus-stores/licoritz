@@ -1,5 +1,6 @@
 {
   "domain": "licoritz.com.br",
+  "repository": "ecomplus-stores/licoritz",
   "currency_symbol": "R$",
   "primary_color": "#e6007e",
   "theme": {
