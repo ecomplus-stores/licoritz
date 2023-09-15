@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.81bf1f193e5cdadfa511d9ee22b017c1.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_384x384.c57cca6fab3d4bd972c54004e93d1bc6.jpeg",
+      "sizes": "384x384",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_192x192.a005e81cb5b130ae1f728117e5d5b745.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_128x128.b2247b70cd45414bb02cfc086417126a.jpeg",
+      "sizes": "128x128",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "/icon_96x96.97799fecbc45cda383dbcb180b7de727.jpeg",
+      "sizes": "96x96",
+      "type": "image/jpeg"
+    }
+  ],
+  "name": "LICORITZ!",
+  "short_name": "LICORITZ!",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "O EQUILÍBRIO PERFEITO ENTRE O DOCE, O ÁLCOOL E A CREMOSIDADE.",
+  "background_color": "#ffffff",
+  "theme_color": "#e6007e"
+}
